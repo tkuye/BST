@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "map": "cpp",
+        "__node_handle": "cpp",
+        "iostream": "cpp"
+    }
+}
